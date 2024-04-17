@@ -2,3 +2,6 @@
 [submodule "challenge1"]
 	path = challenge1
 	url = git@github.com:irene-fagnani/challenge1.git
+[submodule "challenge2"]
+	path = challenge2
+	url = git@github.com:irene-fagnani/challenge2.git
